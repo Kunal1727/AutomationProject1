@@ -12,10 +12,12 @@
       <class name="com.testng.practise.TestNGDemo.TestDemo2"/>
     </classes>
   </test> <!-- Test -->
+  <!--   
     <test name="IETest">
       <parameter name="browser" value="ie"></parameter>>
     <classes>
       <class name="com.testng.practise.TestNGDemo.TestDemo2"/>
     </classes>
-  </test> <!-- Test -->
+  </test>
+  --> 
 </suite> <!-- Suite -->
