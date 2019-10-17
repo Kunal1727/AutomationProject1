@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite" parallel="tests">
   <test name="ChromeTest">
-  <parameter name="browser" value="chrome"></parameter>>
+  <parameter name="browser" value="ie"></parameter>>
     <classes>
       <class name="com.testng.practise.TestNGDemo.TestDemo2"/>
     </classes>
