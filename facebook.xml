@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="Suite" parallel="tests">
   <test name="ChromeTest">
+
   <parameter name="browser" value="ie"></parameter>>
+ 
     <classes>
       <class name="com.testng.practise.TestNGDemo.TestDemo2"/>
     </classes>
   </test> <!-- Test -->
     <test name="FireFoxTest">
+        
       <parameter name="browser" value="firefox"></parameter>>
     <classes>
       <class name="com.testng.practise.TestNGDemo.TestDemo2"/>
